@@ -43,4 +43,4 @@ The language files are located in the ```src/data/lang``` folder and each langua
 You can access to the properties on the handlebars templates by doing ```{{title}}```.
 
 ## License
-This project is licensed under the MIT license, Copyright (c) 2016 Glenn Reyes. For more information check ```[LICENSE.md](LICENSE.md)```
+This project is licensed under the MIT license, Copyright (c) 2016 Glenn Reyes. For more information check [```LICENSE.md```](LICENSE.md)
