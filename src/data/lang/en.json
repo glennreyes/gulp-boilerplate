@@ -1,0 +1,11 @@
+{
+  "lang": "en",
+  "path": "",
+  "pathname": "/",
+  "title": "Gulp Boilerplate",
+  "description": "An awesome Gulp Boilerplate",
+
+  "heading": "Hello World!",
+  "switch-lang": "Switch to German",
+  "switch-lang-path": "./de"
+}

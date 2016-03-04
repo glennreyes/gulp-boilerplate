@@ -1,0 +1,10 @@
+@import "common/variables";
+@import "common/mixins";
+
+// bower:scss
+@import "bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+
+@import "common/global";
+@import "layouts/**/*.scss";
+@import "components/**/*.scss";

@@ -1,0 +1,11 @@
+{
+  "lang": "de",
+  "path": "../",
+  "pathname": "/de/",
+  "title": "Gulp Kochplatte",
+  "description": "Ein genialer Gulp Boilerplate",
+
+  "heading": "Hallo Welt!",
+  "switch-lang": "Zu Englisch wechseln",
+  "switch-lang-path": "../"
+}

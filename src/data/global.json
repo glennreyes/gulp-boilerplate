@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "gulp",
+    "starter kit",
+    "boilerplate",
+    "browsersync",
+    "handlebars",
+    "sass",
+    "browserify",
+    "critical",
+    "languages"
+  ],
+  "homepage": "//example.com",
+  "author": "Your Name",
+  "twitter": "//twitter.com/twitter",
+  "twitter-user": "twitteruser",
+  "ga-code": "UA-00000000-0"
+}

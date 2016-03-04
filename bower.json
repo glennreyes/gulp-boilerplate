@@ -1,0 +1,19 @@
+{
+  "name": "gulp-boilerplate",
+  "description": "A minimalistic and light-weight Gulp Boilerplate to quick start your multi-language project from scratch.",
+  "authors": [
+    "Glenn Reyes <office@glennreyes.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4-dev"
+  }
+}
