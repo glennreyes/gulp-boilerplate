@@ -1,7 +1,6 @@
 import gulp from 'gulp'
 import uglify from 'gulp-uglify'
 import cssnano from 'gulp-cssnano'
-import uncss from 'gulp-uncss'
 import htmlmin from 'gulp-htmlmin'
 import gulpif from 'gulp-if'
 import scripts from './scripts'
@@ -15,7 +14,6 @@ import critical from './critical'
 const build = () => {
   gulp.src(['.tmp/**/*', 'src/*.*'])
   .pipe(gulpif('*.js', uglify()))
-  .pipe(gulpif('*.css', uncss({ html: ['.tmp/index.html'] })))
   .pipe(gulpif('*.css', cssnano()))
   .pipe(gulpif('*.html', htmlmin({
     collapseWhitespace: true,
